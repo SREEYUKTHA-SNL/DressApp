@@ -54,12 +54,7 @@ class _PopularDoctorState extends State<PopularDoctor> {
     '2.7',
     '3.0',
   ];
-  final List<String> Rating2 = [
-    '2.4',
-    '2.8',
-    '2.7',
-    '3.0',
-  ];
+  
 
  
   final List<String> Review = [
